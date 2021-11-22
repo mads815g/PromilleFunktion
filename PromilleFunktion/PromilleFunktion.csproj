@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="PromilleKlasse">
+      <HintPath>..\..\..\PromilleKlasse\PromilleKlasse\PromilleKlasse\bin\Debug\net5.0\PromilleKlasse.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
